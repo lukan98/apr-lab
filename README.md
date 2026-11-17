@@ -28,6 +28,13 @@ A Java library implementing common numerical methods, written as part of the **A
 
 - Java JDK 11 or newer
 - Eclipse is optional; the repository includes Eclipse project metadata
+- A `.tool-versions` file pins JDK 11 for asdf users
+
+Install the pinned toolchain with asdf:
+
+```bash
+asdf install
+```
 
 ## Build and run
 
